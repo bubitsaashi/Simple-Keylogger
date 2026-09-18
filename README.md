@@ -1,5 +1,5 @@
 
-## Task-04: Simple Keylogger
+## Simple Keylogger
 
 ##  Disclaimer
 This script is created **strictly for educational purposes**. It should only be run on your own system and never without explicit consent.
